@@ -5,5 +5,5 @@ my_tuple = ("apple", "banana", "cherry", "date")
 first_value = my_tuple[0]
 
 # Print the first value
-print("Tuple:", my_tuple)
 print("Value at first index:", first_value)
+
