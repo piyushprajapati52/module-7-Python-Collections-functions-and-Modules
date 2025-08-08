@@ -1,7 +1,7 @@
 # Original dictionary
 student = {
     "name": "Mitesh",
-    "age": 20,
+    "age": 21,
     "course": "Python Backend"
 }
 
@@ -9,6 +9,6 @@ student = {
 student["name"] = "Piyush"
 
 # Display updated dictionary
-print("Updated Dictionary:")
 for key, value in student.items():
     print(f"{key} : {value}")
+
